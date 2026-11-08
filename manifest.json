@@ -1,0 +1,18 @@
+{
+  "name": "Gospel Books App | PageTurn",
+  "short_name": "Gospel Books",
+  "description": "A sacred, quiet space for timeless gospel wisdom, discipleship literature, and Christian classics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F6F1",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/covers/becoming-like-jesus.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
+

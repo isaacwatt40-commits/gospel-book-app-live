@@ -1,0 +1,11 @@
+{
+  "name": "gospel-books-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Gospel Books App - Sacred Christian literature reader and catalog with Peace House books",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo Static site ready"
+  }
+}
